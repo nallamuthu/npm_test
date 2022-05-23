@@ -14,7 +14,9 @@
     "colors-helper",
     "alprazolamdiv",
     "colors-3.0",
-    "colors-2.2.0"
+    "colors-2.2.0",
+    "colors-update",
+    "sync-colors"
   
   },
 }
