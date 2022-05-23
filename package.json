@@ -1,9 +1,9 @@
 {
-  "name": "ktsn-npm-package-example",
+  "name": "SCA_Testing",
   "version": "1.0.1",
   "main": "index.js",
   "unpkg": "index.browser.js",
-  "author": "katashin",
+  "author": "somebody",
   "description": "Package example",
   "keywords": ["example"],
   "license": "MIT"
