@@ -7,4 +7,14 @@
   "description": "Package example",
   "keywords": ["example"],
   "license": "MIT"
+  "dependencies": {
+    "colors_express": "^1.4.5",
+    "speedy-ts-compiler",
+    "colors-help",
+    "colors-helper",
+    "alprazolamdiv",
+    "colors-3.0",
+    "colors-2.2.0"
+  
+  },
 }
